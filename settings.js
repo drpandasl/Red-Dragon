@@ -20,14 +20,28 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `😈💞𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴! 𝙸 𝙼 𝙾𝙽𝙻𝙸𝙽𝙴 𝙽𝙾𝚆💕😈
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+    〽️🍃⃟⃙🖤𝐇𝐨⃪𝐰 𝐂𝐚⃪𝐧 𝐈 𝐇𝐞𝐥⃪𝐩 𝐘𝐨⃪𝐮?🖤⃟⃙🍃〽️
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+🍁 My name ||  [ ᴋͥɪͣɴͫɢ ᴄʜᴀ⃭ᴍ⃜ɪʏ⃯ᴀツ ]
+
+🍁  𝙼𝚞𝚕𝚝𝚒 𝙳𝚎𝚟𝚒𝚌𝚎 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚘𝚝
+
+🍁 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 _  wa.me/+94710367722
+
+🍁.menu  *to get my command list*💞
+
+🍁 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠
+
+ 📛ᵖᵒʷᵉʳᵉᵈ ᵇʸ📛 ᴋͥɪͣɴͫɢ ᴄʜᴀ⃭ᴍ⃜ɪʏ⃯ᴀツ😈⃟⃙⃔⃕🤍
+ © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ https://i.imgur.com/SJZHbgW.jpeg` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94716064746'] //Owner number in aive msg
+global.premium = ['+94716064746'] //Owner Number info
+global.ownernomer = '+94716064746' //Owner Number <<<
+
+global.ownername = '𝐷𝛥𝑅𝛫 𝐶𝛨𝛥𝛭𝛪𝑌𝛥' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
@@ -36,7 +50,7 @@ global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '𝐷𝛥𝑅𝛫 𝐶𝛨𝛥𝛭𝛪𝑌𝛥' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
