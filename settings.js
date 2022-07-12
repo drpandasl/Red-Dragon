@@ -37,9 +37,9 @@ global.alivemsg = `😈💞𝙷𝙴𝚈 𝚃𝙷𝙴𝚁𝙴! 𝙸 𝙼 𝙾𝙽
  📛ᵖᵒʷᵉʳᵉᵈ ᵇʸ📛 ᴋͥɪͣɴͫɢ ᴄʜᴀ⃭ᴍ⃜ɪʏ⃯ᴀツ😈⃟⃙⃔⃕🤍
  © ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ https://i.imgur.com/SJZHbgW.jpeg` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94775272788'] //Owner number in aive msg
-global.premium = ['+94775272788'] //Owner Number info
-global.ownernomer = '+94775272788' //Owner Number <<<
+global.owner = ['+94717597160'] //Owner number in aive msg
+global.premium = ['+94717597160'] //Owner Number info
+global.ownernomer = '+94717597160' //Owner Number <<<
 
 global.ownername = '𝐷𝛥𝑅𝛫 𝐶𝛨𝛥𝛭𝛪𝑌𝛥' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
